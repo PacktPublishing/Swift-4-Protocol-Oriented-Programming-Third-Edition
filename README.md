@@ -25,5 +25,3 @@ To follow along with the examples in this book, the reader will need to have an 
 
 * [Swift: Mastering the Core Concepts [Integrated Course]](https://www.packtpub.com/application-development/swift-mastering-core-concepts-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788393225)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
